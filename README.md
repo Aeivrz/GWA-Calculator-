@@ -9,7 +9,7 @@ A calculator that calculates your grade based off of your scores on tests, quizz
 - Calculate Final Grade based off of last quarter grade and tentative grade
 - Make GWA based off of all the subject weights
 
-#Example output
+# Example output
 Enter FA weight: 30
 Enter amount of FAs that are graded: 2
 Enter max score of FA 1: 10 
@@ -31,6 +31,6 @@ Enter last year grade? (y/n): n
 Grade for this subject: 1.0
 Calculate GWA? (y/n): n
 
-#Contibutors:
+# Contibutors:
 - Zavier Costo
 - Glenn Morga
