@@ -7,7 +7,7 @@ A calculator that calculates your grade based off of your scores on tests, quizz
 - Enter grade distribution
 - Calculate tentative grade
 - Calculate Final Grade based off of last quarter grade and tentative grade
-- Make GWA based off of all the subject weights
+- Make General Weighted Average (GWA) based off of all the subject weights
 
 # Example output
 - Enter FA weight: 30
